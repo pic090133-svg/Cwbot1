@@ -1,0 +1,8 @@
+python-telegram-bot
+requests
+yt-dlp
+speedtest-cli
+aiohttp
+geopy
+psutil
+
